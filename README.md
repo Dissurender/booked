@@ -1,13 +1,14 @@
-[![](https://img.shields.io/github/issues/dissurender/shelf-life)](https://github.com/Dissurender/shelf-life/issues) [![](https://img.shields.io/github/license/dissurender/shelf-life)](https://github.com/Dissurender/shelf-life/blob/main/LICENSE) ![](https://img.shields.io/github/languages/top/dissurender/shelf-life)
+[![](https://img.shields.io/github/issues/dissurender/shelf-life)](https://github.com/Dissurender/booked/issues) [![](https://img.shields.io/github/license/dissurender/shelf-life)](https://github.com/Dissurender/booked/blob/main/LICENSE) ![](https://img.shields.io/github/languages/top/dissurender/booked)
 
-# Shelf Life
+# Booked
 
 ## Description
 
-ShelfLife looks to create a space for friends to gather and discuss books that they have read or are currently reading:
+Booked looks to create a space for friends to gather and discuss books that they have read or are currently reading:
+(This is a port of [Shelf Life](https://github.com/Dissurender/shelf-life/) using Vue 3)
 
 - I built this project to have a place to host read-alongs
-- Using ShelfLife, discussions are created with page position spoilers
+- Using Booked, discussions are created with page position spoilers
 - Learned concepts: Nested DB objects, state filtering
 
 ## Table of Contents
