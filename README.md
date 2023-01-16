@@ -1,4 +1,4 @@
-[![](https://img.shields.io/github/issues/dissurender/shelf-life)](https://github.com/Dissurender/booked/issues) [![](https://img.shields.io/github/license/dissurender/shelf-life)](https://github.com/Dissurender/booked/blob/main/LICENSE) ![](https://img.shields.io/github/languages/top/dissurender/booked)
+[![](https://img.shields.io/github/issues/dissurender/booked)](https://github.com/Dissurender/booked/issues) [![](https://img.shields.io/github/license/dissurender/booked)](https://github.com/Dissurender/booked/blob/main/LICENSE) ![](https://img.shields.io/github/languages/top/dissurender/booked)
 
 # Booked
 
